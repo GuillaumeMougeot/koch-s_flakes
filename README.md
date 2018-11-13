@@ -1,2 +1,2 @@
-# koch-s_flakes
+# Koch's flakes
 A minimalist implementation of Koch's fractal 
